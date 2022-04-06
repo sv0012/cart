@@ -1,0 +1,46 @@
+.cart_container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.quantities {
+    margin: 25px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.inc,.dec,.qty {
+    margin: 10px;
+    height: 25px;
+    width: 25px;
+}
+
+.qty {
+    text-align: center;
+}
+
+.inc,.dec{
+    cursor: pointer;
+}
+
+.remove {
+    margin: 25px;
+}
+
+.remove span {
+    display: flex;
+    padding: 5px;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    cursor: pointer;
+}
+
+.save {
+    width: 200px;
+    margin: 25px;
+}

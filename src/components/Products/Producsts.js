@@ -4,12 +4,11 @@ import Product from '../Product/Product';
 import './products.css'
 const Products = () => {
   const prods = products;
-  console.log(prods)
   return (
-    <div className='container'>
+    <div className='container '>
       {
         prods.map((prod) => (
-          <Product key={prod.id} prod={prod} />
+          <Product className='save_container' key={prod.id} prod={prod} />
         ))
 
       }

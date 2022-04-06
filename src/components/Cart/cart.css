@@ -1,0 +1,11 @@
+.checkout {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+.cart_prod {
+    display: flex;
+    flex-direction: column;
+}

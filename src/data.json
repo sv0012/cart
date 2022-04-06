@@ -6,6 +6,7 @@
       "brand": "Flying Machine",
       "price": 355,
       "size": "S M L XL",
+      "quantity":1,
       "imageUrl": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
     },
     {
@@ -15,6 +16,7 @@
       "brand": "Van Heusen",
       "price": 539,
       "size": "S M",
+      "quantity":1,
       "imageUrl": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
     },
     {
@@ -24,6 +26,7 @@
       "brand": "Flying Machine",
       "price": 579,
       "size": "S M L XL",
+      "quantity":1,
       "imageUrl": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
     },
     {
@@ -33,6 +36,7 @@
       "brand": "WildCraft",
       "price": 449,
       "size": "M",
+      "quantity":1,
       "imageUrl": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
     },
     {
@@ -42,6 +46,7 @@
       "brand": "London Hills",
       "price": 390,
       "size": "S M L XL",
+      "quantity":1,
       "imageUrl": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
     },
     {
@@ -51,6 +56,7 @@
       "brand": "Jaffrey",
       "price": 999,
       "size": "S",
+      "quantity":1,
       "imageUrl": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
     },
     {
@@ -60,6 +66,7 @@
       "brand": "Sara",
       "price": 350,
       "size": "S",
+      "quantity":1,
       "imageUrl": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
     }
 ]
